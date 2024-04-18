@@ -25,7 +25,7 @@ struct ContentView: View {
         .padding(10)
         
         VStack {
-            Text("This is a field of blue flowers!")
+            Text("This shows a field of blue flowers!")
                 .font(.title)
                 .fontWeight(.heavy)
                 .foregroundColor(Color.blue)
